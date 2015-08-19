@@ -27,8 +27,8 @@
 #	Using: osmc-freshstart.sh and chosing remove package archives:
 #	Packages removed:							97
 #	Archives removed:							97
-#	Post freshstart disk usage:					1612431360 Bytes Used,  5633196032 Bytes Free (from df -B1)
-#	Post reboot disk usage:						
+#	Post freshstart disk usage:					1613180928 Bytes Used,  5632446464 Bytes Free (from df -B1)
+#
 # 	*NOTE	Due to disk overheads like journaling, etc... the space available after cleanup will differ from pre-install by a small amount
 #			this is normal and should not cause concern.
 #	
@@ -87,7 +87,6 @@ initialize()
 	
 	clear
 }
-
 
 ###################################################################
 # Main()
